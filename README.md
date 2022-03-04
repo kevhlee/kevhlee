@@ -2,7 +2,7 @@
 
 I'm a software engineer from Los Angeles, CA.
 
-- 🔭 I’m currently working on **[Liferay](https://www.liferay.com)**.
+- 🔭 I’m currently working on **an interpreter for [Lox](https://craftinginterpreters.com)**.
 - 🌱 I’m currently learning **linters and formatters**.
 
 <h3 align="left">Connect with me:</h3>
