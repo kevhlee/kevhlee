@@ -3,7 +3,7 @@
 I'm a software engineer from Los Angeles, CA.
 
 - 🔭 I’m currently working on **an interpreter for [Lox](https://craftinginterpreters.com)**.
-- 🌱 I’m currently learning **linters and formatters**.
+- 🌱 I’m currently learning **Vim** and **Neovim** (goodbye VSCode).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
