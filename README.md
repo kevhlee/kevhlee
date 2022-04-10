@@ -2,8 +2,9 @@
 
 I'm a software engineer from Los Angeles, CA.
 
+- 💼 I'm currently working at **[Liferay](https://liferay.com)**.
 - 🔭 I’m currently working on **an interpreter for [Lox](https://craftinginterpreters.com)**.
-- 🌱 I’m currently learning **Vim** and **Neovim** (goodbye VSCode).
+- 🌱 I’m currently learning **Vim** and **Neovim** (goodbye Visual Studio Code).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,44 +29,4 @@ I'm a software engineer from Los Angeles, CA.
       height="30"
       width="40"
   /></a>
-</p>
-
-<h3 align="left">Tech Stacks:</h3>
-<p align="left">
-  <a href="https://www.java.com">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://golang.org">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"
-      alt="go"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img
-      align="center"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
 </p>
