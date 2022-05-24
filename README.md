@@ -4,9 +4,7 @@ I'm a software engineer from Los Angeles, CA.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
 - 🔭 I’m currently working on **an interpreter for [Lox](https://craftinginterpreters.com)**.
-- 🌱 I’m currently learning **Vim** and **Neovim** (goodbye Visual Studio Code).
-
-![jumping-gopher](./jumping-gopher.gif)
+- 🌱 I’m currently learning [Lua 🌙](https://www.lua.org).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
