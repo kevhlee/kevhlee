@@ -1,10 +1,10 @@
 # Hello 👋
 
-I'm a software engineer from Los Angeles, CA.
+My name is Kevin Lee and I'm a software engineer from Los Angeles, CA.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
-- 🔭 I’m currently working on **an interpreter for [Lox](https://craftinginterpreters.com)**.
-- 🌱 I’m currently learning [Lua 🌙](https://www.lua.org).
+- 🔭 I’m currently working on a **linter**.
+- 🌱 I’m currently learning **[Rust 🦀](https://rust-lang.org)**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
