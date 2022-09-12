@@ -1,0 +1,15 @@
+{
+  "name": "kevhlee",
+  "main": "index.js",
+  "version": "1.0.0",
+  "repository": "https://github.com/kevhlee/kevhlee.git",
+  "author": "Kevin Lee <klee03509@gmail.com>",
+  "scripts": {
+    "format": "prettier '**/*.js' --write",
+    "generate": "node generate_readme.js"
+  },
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "prettier": "^2.7.1"
+  }
+}

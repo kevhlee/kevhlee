@@ -1,27 +1,26 @@
+
 # Hello 👋
 
-My name is Kevin Lee and I'm a software engineer from Los Angeles, CA.
+My name is Kevin Lee and I'm a software engineer from Los Angeles, California.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
-- 🔭 I’m currently working on a **linter**.
-- 🌱 I’m currently learning **[Rust 🦀](https://rust-lang.org)**.
+- 🔭 I'm currently working on a **linter**.
+- 🌱 I'm currently learning **[Rust 🦀](https://rust-lang.org)**.
 
 <div>
-  <h3 align="left">
-    Connect with me:
-  </h3>
+  <h3 align="left">Connect with me:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/kevin-hwa-lee">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" />
+      <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&style=flat&logoWidth=30&logoColor=white" />
     </a>
     <a href="https://stackoverflow.com/users/6752025/kevin-lee">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40" />
+      <img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack Overflow-f58025?logo=stackoverflow&style=flat&logoWidth=30&logoColor=white" />
     </a>
-    <a href="https://www.leetcode.com/kevhlee">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" />
+    <a href="https://leetcode.com/kevhlee">
+      <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-ffa116?logo=leetcode&style=flat&logoWidth=30&logoColor=white" />
     </a>
-    <a href="https://www.codewars.com/users/kevhlee">
-      <img align="center" src="https://raw.githubusercontent.com/codewars/branding/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983/logo.svg" height="40" width="40" />
+    <a href="https://codewars.com/users/kevhlee">
+      <img alt="Codewars" src="https://img.shields.io/badge/-Codewars-b1361e?logo=codewars&style=flat&logoWidth=30&logoColor=white" />
     </a>
   </p>
-<div>
+</div>
