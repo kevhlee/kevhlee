@@ -4,8 +4,8 @@
 My name is Kevin Lee and I'm a software engineer from Los Angeles, California.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
-- 🔭 I'm currently working on a **linter**.
-- 🌱 I'm currently learning **[Rust 🦀](https://rust-lang.org)**.
+- 🔭 I'm currently working on **nothing** (for now 😊).
+- 🌱 I'm currently learning **nothing** (for now 😊).
 
 <div>
   <h3 align="left">Connect with me:</h3>

@@ -42,12 +42,11 @@ const context = {
     },
     {
       emoji: "🔭",
-      description: "I'm currently working on a **linter**",
+      description: "I'm currently working on **nothing** (for now 😊)",
     },
     {
       emoji: "🌱",
-      description:
-        "I'm currently learning **[Rust 🦀](https://rust-lang.org)**",
+      description: "I'm currently learning **nothing** (for now 😊)",
     },
   ],
   socialBadges: [
