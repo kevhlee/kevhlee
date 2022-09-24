@@ -12,10 +12,9 @@ handlebars.registerHelper("generateBadgeURL", function () {
   return url;
 });
 
-const template = handlebars.compile(`
-# Hello 👋
+const template = handlebars.compile(`# Hello 👋
 
-My name is Kevin Lee and I'm a software engineer from Los Angeles, California.
+My name is Kevin and I'm a software engineer from Los Angeles, California.
 
 {{#each info}}
 - {{{emoji}}} {{{description}}}.
@@ -41,12 +40,13 @@ const context = {
         "I'm currently working at **[Liferay](https://liferay.com)**",
     },
     {
-      emoji: "🔭",
-      description: "I'm currently working on **nothing** (for now 😊)",
+      emoji: "🌱",
+      description: "I'm currently learning **frontend development**",
     },
     {
-      emoji: "🌱",
-      description: "I'm currently learning **nothing** (for now 😊)",
+      emoji: "📚",
+      description:
+        "I'm currently reading *[Understanding Distributed Systems](https://understandingdistributed.systems)*",
     },
   ],
   socialBadges: [
