@@ -1,7 +1,2 @@
-# Node
-*.lock
-*.log
-node_modules/
-
 # MacOS
 .DS_Store
