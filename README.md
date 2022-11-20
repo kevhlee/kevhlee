@@ -15,9 +15,8 @@ My name is Kevin and I'm a software engineer from Los Angeles, California.
 ![Gradle](https://img.shields.io/badge/-Gradle-F8F8FF?style=flat&logo=gradle&logoColor=02303A)
 ![Java](https://img.shields.io/badge/-Java-F8F8FF?style=flat&logo=coffeescript&logoColor=FFA500)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F8F8FF?style=flat&logo=javascript)
-![MySQL](https://img.shields.io/badge/-MySQL-F8F8FF?style=flat&logo=mysql&logoColor=4479A1)
-![Postgres](https://img.shields.io/badge/-Postgres-F8F8FF?style=flat&logo=postgresql)
 ![Spring](https://img.shields.io/badge/-Spring-F8F8FF?style=flat&logo=spring)
+![Postgres](https://img.shields.io/badge/-SQL-F8F8FF?style=flat&logo=postgresql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-F8F8FF?style=flat&logo=typescript&logoColor=2D79C7)
 ![Vim](https://img.shields.io/badge/-Vim-F8F8FF?style=flat&logo=vim&logoColor=019733)
 
