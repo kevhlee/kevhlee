@@ -3,7 +3,7 @@
 My name is Kevin and I'm a software engineer from Los Angeles, California.
 
 - 💼 I'm currently working at **[Liferay](https://liferay.com)**.
-- 📚 I'm currently reading *[Understanding Distributed Systems](https://understandingdistributed.systems)*.
+- 📚 I'm currently reading *[Database Internals](https://www.databass.dev/)* by Alex Petrov.
 
 ## ⚒️ Languages & Tools
 
