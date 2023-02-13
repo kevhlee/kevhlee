@@ -14,7 +14,6 @@ My name is Kevin and I'm a software engineer from Los Angeles, California.
 ![Go](https://img.shields.io/badge/-Go-F8F8FF?style=flat&logo=go)
 ![Java](https://img.shields.io/badge/-Java-F8F8FF?style=flat&logo=coffeescript&logoColor=FFA500)
 ![Lua](https://img.shields.io/badge/-Lua-F8F8FF?style=flat&logo=lua&logoColor=2C2D72)
-![TypeScript](https://img.shields.io/badge/-TypeScript-F8F8FF?style=flat&logo=typescript&logoColor=2D79C7)
 
 ## 📈 GitHub Analytics
 
