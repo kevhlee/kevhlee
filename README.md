@@ -14,20 +14,3 @@ My name is Kevin and I'm a software engineer from Los Angeles, California.
 ![Go](https://img.shields.io/badge/-Go-F8F8FF?style=flat&logo=go)
 ![Java](https://img.shields.io/badge/-Java-F8F8FF?style=flat&logo=coffeescript&logoColor=FFA500)
 ![Lua](https://img.shields.io/badge/-Lua-F8F8FF?style=flat&logo=lua&logoColor=2C2D72)
-
-## 📈 GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/kevhlee">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevhlee&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kevhlee&layout=compact&langs_count=8&theme=default"/>
-</a>
-</p>
-
-<!--
-&#x200B;
-Resources:
-  - https://github.com/coderjojo/creative-profile-readme
-  - https://github-profile-trophy.vercel.app/?username=kevhlee&theme=default&margin-w=15&margin-h=15&column=7&v=2
-  - https://github.com/simple-icons/simple-icons/blob/develop/slugs.md
--->
